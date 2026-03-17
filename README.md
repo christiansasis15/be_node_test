@@ -101,7 +101,8 @@ npm run dev
 **Production:**
 
 ```bash
-npm run dev
+npm run build
+npm start
 ```
 
 Server runs at `http://localhost:3000`
